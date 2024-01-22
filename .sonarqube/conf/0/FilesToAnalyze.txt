@@ -1,0 +1,15 @@
+﻿D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\AppDbContext.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Controllers\EmployeeController.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\EmployeeModel.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Migrations\20231227064923_check.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Migrations\20231227064923_check.Designer.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Migrations\AppDbContextModelSnapshot.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Program.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\EmployeeManagementApi.GlobalUsings.g.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\EmployeeManagementApi.AssemblyInfo.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\EmployeeManagementApi.MvcApplicationPartsAssemblyInfo.cs
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\appsettings.Development.json
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\appsettings.json
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Dockerfile
+D:\dotnet\MVC projects\EmployeeManagementMicro\EmployeeManagementApi\Properties\launchSettings.json
